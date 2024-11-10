@@ -1,0 +1,10 @@
+venv
+.vscode
+*.docx
+*.xlsx
+*.csv
+*.mp4
+bart_model/*
+roberta_model/*
+streamlit_app/bart_model/*
+streamlit_app/roberta_model/*
