@@ -242,11 +242,13 @@ def complience_level(value) -> str:
     Returns:
         str: метка класса
     """
-    if value > 0.83:
+    if value > 0.85:
         return "FC"
-    elif value > 0.75 and value <= 0.83:
+    elif value > 0.75 and value <= 0.85:
         return "LC"
-    elif 0.01 < value <= 0.75:
+    elif value > 0.65 and value <= 0.75:
+        return "PC"
+    elif 0.01 < value <= 0.65:
         return "NC"
     else:
         return "NA"
