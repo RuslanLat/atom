@@ -7,19 +7,19 @@
 1. **Навигация** по проекту
 
 1.1 [Презентация](presentation.pdf) ![Ready](https://img.shields.io/badge/-ready-green) \
-1.2 [EDA](eda.ipynb) (разведочный анализ данных и формирование признаков) ![Ready](https://img.shields.io/badge/-ready-green)
-1.3 [Веса моделей ИИ](https://disk.yandex.ru/d/QpSFFa6r8V_0aQ) веса моделей ![Ready](https://img.shields.io/badge/-ready-green)
+1.2 [EDA](eda.ipynb) (разведочный анализ данных и формирование признаков) ![Ready](https://img.shields.io/badge/-ready-green) \
+1.3 [Веса](https://disk.yandex.ru/d/QpSFFa6r8V_0aQ) моделей ИИ ![Ready](https://img.shields.io/badge/-ready-green)
 
-1.4 ML - модель ИИ: \
-1.4.1 [mlmodel.ipynb](mlmodel.ipynb) ![Ready](https://img.shields.io/badge/-ready-green)
+1.4 ML - модель ИИ:
+1.4.1 [mlmodel.ipynb](mlmodel.ipynb) ![Ready] \(https://img.shields.io/badge/-ready-green)
 
-1.5 Формирование отчёта для новых файлов
+1.5 Формирование отчёта для новых файлов \
 1.5.1 [FULL_LAUNCH.ipynb](FULL_LAUNCH.ipynb) ![Ready](https://img.shields.io/badge/-ready-green)
 
 1.6 Web - сервис
 1.6.1 [streamlit_app.py](streamlit_app/streamlit_app.py) ![Ready](https://img.shields.io/badge/-ready-green) \
-1.6.2 [Скринкаст](https://disk.yandex.ru/i/6tGnEW5lt7zxDA) демонстрации сервиса ![Ready](https://img.shields.io/badge/-ready-green)
-1.6.3 Ссылка на хостинг [http://87.242.103.141:8501/](http://87.242.103.141:8501/)
+1.6.2 [Скринкаст](https://disk.yandex.ru/i/6tGnEW5lt7zxDA) демонстрации сервиса ![Ready](https://img.shields.io/badge/-ready-green) \
+1.6.3 Ссылка на хостинг [http://87.242.103.141:8501/](http://87.242.103.141:8501/) ![Ready](https://img.shields.io/badge/-ready-green)
 
 1.7 [Инструкция](instructions.md) установки среды запуска кода и его запуска ![Ready](https://img.shields.io/badge/-ready-green)
 
