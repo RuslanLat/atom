@@ -27,5 +27,5 @@
 
 Руслан Латипов <img src="images/tglogo.jpg" width="18"> [@rus_lat116](https://t.me/rus_lat116) \
 Юрий Дон <img src="images/tglogo.jpg" width="18"> [@Yuriy_Nikitich](https://t.me/Yuriy_Nikitich) \
-Алексей Верт-Миллер <img src="images/tglogo.jpg" width="18"> [@alexwert3](https://t.me/alexwert3) |
+Алексей Верт-Миллер <img src="images/tglogo.jpg" width="18"> [@alexwert3](https://t.me/alexwert3) \
 Татьяна Моисеева <img src="images/tglogo.jpg" width="18"> [@Estochka](https://t.me/Estochka)
