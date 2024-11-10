@@ -10,8 +10,8 @@
 1.2 [EDA](eda.ipynb) (разведочный анализ данных и формирование признаков) ![Ready](https://img.shields.io/badge/-ready-green) \
 1.3 [Веса](https://disk.yandex.ru/d/QpSFFa6r8V_0aQ) моделей ИИ ![Ready](https://img.shields.io/badge/-ready-green)
 
-1.4 ML - модель ИИ:
-1.4.1 [mlmodel.ipynb](mlmodel.ipynb) ![Ready] \(https://img.shields.io/badge/-ready-green)
+1.4 ML - модель ИИ \
+1.4.1 [mlmodel.ipynb](mlmodel.ipynb) ![Ready] (https://img.shields.io/badge/-ready-green)
 
 1.5 Формирование отчёта для новых файлов \
 1.5.1 [FULL_LAUNCH.ipynb](FULL_LAUNCH.ipynb) ![Ready](https://img.shields.io/badge/-ready-green)
